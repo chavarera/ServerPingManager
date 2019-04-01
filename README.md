@@ -42,13 +42,13 @@ After Completion of Above Step Output File is Generated and Saved At **output/to
 
 ![Open Office Document](https://github.com/chavarera/ServerPingManager/blob/master/ScreenShots/Resultinods.PNG)
 
-Log With Date And Time Added To **alllog.txt** in root directory
+Log With :date: Date And Time :watch: Added To **alllog.txt** in root directory
 
 ![Log File](https://github.com/chavarera/ServerPingManager/blob/master/ScreenShots/LogWithTime.PNG)
 
 ## Help
 
-If You want to Get Advances Server Status Manager Contact Me :mailbox:
+If You want to Get Advance Graphical :performing_arts: Server Status Manager With Some Premium Features Contact Me :mailbox:
 ```
  chavare.ravi123@gmail.com
 ```
