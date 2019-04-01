@@ -9,10 +9,10 @@ Simple Add multiple Ip Address into a Text file and you can check the server sta
 domain Address
 
 ###Server Status Information
-- :point_up: Up
-- :point_down: Down
-- :crying_cat_face: Host Not Found
-- :new_moon_with_face: General Failure
+- Up
+- Down
+- Host Not Found
+- General Failure
 
 
 ### Dependencies
