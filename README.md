@@ -1,11 +1,11 @@
-# :rocket: Server Ping Manager :shipit:
+# :rocket: Server Ping Manager 
 
 Description 
-The the Running Servers Status  (Up,Down) From A Given List Of IP Address and Domain Address
+The the Running Servers Status  (Up,Down) From A Given List Of IP Address :globe_with_meridians:  and Domain Address
 
 ## Description
 
-Simple Add multiple Ip Address into a Text file and you can check the server status of every Ip address and 
+Simple Add multiple Ip Address :globe_with_meridians: into a Text file and you can check the server status of every Ip address and 
 domain Address
 
 ### Server Status Information
@@ -22,11 +22,11 @@ domain Address
 ### Installing
 
 * Extract This :package: Repository 
-* Any modifications needed to be made to files/folders
+* Now go To Root Directory :file_folder:
 
 ### Executing program
 
-* How to run the program
+* How to run :running: the program
 * Add your ip list inside **input/serverlist.txt File**
 
 Now Run :runner: python file **ServerPingManager.py**
@@ -50,12 +50,12 @@ Log With Date And Time Added To **alllog.txt** in root directory
 
 If You want to Get Advances Server Status Manager Contact Me 
 ```
-chavare.ravi123@gmail.com
+:mailbox: chavare.ravi123@gmail.com
 ```
 
 ## Authors
 
-Ravishankar Chavare
+:shipit: Ravishankar Chavare
  
 [@Github](http://github.com/chavarera)
 
