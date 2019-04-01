@@ -8,11 +8,11 @@ The the Running Servers Status  (Up,Down) From A Given List Of IP Address and Do
 Simple Add multiple Ip Address into a Text file and you can check the server status of every Ip address and 
 domain Address
 
-###Server Status Information
-- Up
-- Down
-- Host Not Found
-- General Failure
+### Server Status Information
+- :smiley:  Up
+- :disappointed_relieved: Down
+- :sleepy: Host Not Found
+- :no_mouth: General Failure
 
 
 ### Dependencies
