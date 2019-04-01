@@ -1,4 +1,4 @@
-# Server Ping Manager :shipit:
+# :rocket: Server Ping Manager :shipit:
 
 Description 
 The the Running Servers Status  (Up,Down) From A Given List Of IP Address and Domain Address
@@ -17,11 +17,11 @@ domain Address
 
 ### Dependencies
 
-* Python 3.7
+* :snake: Python 3.7
 
 ### Installing
 
-* Extract This Repository 
+* Extract This :package: Repository 
 * Any modifications needed to be made to files/folders
 
 ### Executing program
@@ -29,7 +29,7 @@ domain Address
 * How to run the program
 * Add your ip list inside **input/serverlist.txt File**
 
-Now Run python file ServerPingManager.py
+Now Run :runner: python file **ServerPingManager.py**
 ```
 python ServerPingManager.py
 ```
