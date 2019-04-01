@@ -48,9 +48,9 @@ Log With Date And Time Added To **alllog.txt** in root directory
 
 ## Help
 
-If You want to Get Advances Server Status Manager Contact Me 
+If You want to Get Advances Server Status Manager Contact Me :mailbox:
 ```
-:mailbox: chavare.ravi123@gmail.com
+ chavare.ravi123@gmail.com
 ```
 
 ## Authors
