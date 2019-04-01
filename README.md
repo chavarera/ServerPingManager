@@ -1,4 +1,4 @@
-# Server Ping Manager
+# Server Ping Manager :shipit:
 
 Description 
 The the Running Servers Status  (Up,Down) From A Given List Of IP Address and Domain Address
@@ -7,7 +7,8 @@ The the Running Servers Status  (Up,Down) From A Given List Of IP Address and Do
 
 Simple Add multiple Ip Address into a Text file and you can check the server status of every Ip address and 
 domain Address
-####Server Status Information
+
+###Server Status Information
 - Up
 - Down
 - Host Not Found
@@ -37,6 +38,13 @@ Now Your Screen Look  Like
 
 ![Command Line Output](https://github.com/chavarera/ServerPingManager/blob/master/ScreenShots/ResultOnCommandScreen.PNG)
 
+After Completion of Above Step Output File is Generated and Saved At **output/todayDate** Folder
+
+![Open Office Document](https://github.com/chavarera/ServerPingManager/blob/master/ScreenShots/Resultinods.PNG)
+
+Log With Date And Time Added To **alllog.txt** in root directory
+
+![Log File](https://github.com/chavarera/ServerPingManager/blob/master/ScreenShots/LogWithTime.PNG)
 
 ## Help
 
