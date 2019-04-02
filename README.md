@@ -1,12 +1,9 @@
 # :rocket: Server Ping Manager 
-
-Description 
-The the Running Servers Status  (Up,Down) From A Given List Of IP Address :globe_with_meridians:  and Domain Address
-
+Ping multiple host names :globe_with_meridians:  and IP addresses from a text file :page_facing_up:.
 ## Description
 
-Simple Add multiple Ip Address :globe_with_meridians: into a Text file and you can check the server status of every Ip address and 
-domain Address
+Server Ping Manager :speech_balloon: is a small utility :computer: Script that allows you to easily ping multiple
+host names and IP addresses from a text file, and Show The Result on command line.You can also save the ping result into open office document file :page_facing_up:.
 
 ### Server Status Information
 - :smiley:  Up
