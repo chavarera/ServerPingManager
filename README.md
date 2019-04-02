@@ -61,7 +61,5 @@ If You want to Get Advance Graphical :performing_arts: Server Status Manager Wit
 * 0.1
     * Initial Release
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
